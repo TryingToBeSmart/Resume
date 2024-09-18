@@ -68,7 +68,7 @@ Bachelor of Science in Software Development
 - Managed inventory and store layout to optimize sales and enhance the shopping experience.
 
 ### Sleep Country – Store Market Manager
-*March 2007 – October 2010*
+*March 2007 – January 2010*
 - Drove sales growth through effective marketing strategies and customer relationship management.
 - Managed staff performance, including recruitment, training, and daily supervision.
 - Conducted regular meetings to align team goals, address challenges, and improve operational efficiency.
