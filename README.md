@@ -32,6 +32,12 @@ Bachelor of Science in Software Development
 
 ## Work Experience
 
+### Pediment Publishing - Customer Service Representative
+*September 2022 to Present*
+- Manage online customer inquiries using Zendesk
+- Reply to customers in a professional and timely manner
+- Update customer information in Shopify
+
 ### PlusQA – QA Analyst
 *August 2023 – April 2024*
 - Collaborated effectively with developers and QA testers to ensure timely resolution of reported bugs, enhancing overall software reliability.
